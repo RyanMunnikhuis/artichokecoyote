@@ -2,7 +2,7 @@
 % Please edit documentation in R/about_me.R
 \name{about_me}
 \alias{about_me}
-\title{Title}
+\title{Name and Date :)}
 \usage{
 about_me(name, day, day_number)
 }
@@ -17,5 +17,5 @@ about_me(name, day, day_number)
 
 }
 \description{
-Title
+Name and Date :)
 }
