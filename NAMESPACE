@@ -2,4 +2,5 @@
 
 export(about_me)
 export(predict_ryan_mood)
+export(theme_cool)
 export(why_is_ryan_angry)

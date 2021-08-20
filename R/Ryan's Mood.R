@@ -8,5 +8,5 @@
 #'
 #' @examples
 predict_ryan_mood = function(mood, time_of_day) {
-  print(paste0("Ryan is ", mood, "because it is ", time_of_day))
+  print(paste0("Ryan is ", mood, " because it is ", time_of_day))
 }
