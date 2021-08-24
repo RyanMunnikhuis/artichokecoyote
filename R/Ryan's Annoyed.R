@@ -6,6 +6,8 @@
 #' @return
 #' @export
 #'
+#'
+#'
 #' @examples
 why_is_ryan_angry = function(annoyed, confusion) {
   print(paste0("Ryan is ", annoyed, "because he does not get ", confusion))
